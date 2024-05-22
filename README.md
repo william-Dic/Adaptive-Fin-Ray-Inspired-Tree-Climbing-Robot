@@ -44,16 +44,17 @@ To program the robot, follow these steps:
    ```sh
    git clone https://github.com/william-Dic/Adaptive-Fin-Ray-Inspired-Tree-Climbing-Robot-UCL-RAI-24fall-.git
 
-2. Open the project in your preferred Arduino IDE:
+2. **Open the project in your preferred Arduino IDE:**
 
-Navigate to the cloned repository directory and open the .ino file in the Arduino IDE.
-Connect the robot's hardware components:
+   - Navigate to the cloned repository directory and open the .ino file in the Arduino IDE.
 
-Follow the wiring instructions in the code comments to connect all hardware components to the Arduino board.
-Upload the code to the Arduino board:
+3.**Connect the robot's hardware components:**
 
-Connect the Arduino board to your computer via USB.
-Select the appropriate board and port in the Arduino IDE, then upload the code.
-Monitor the serial output:
+   - Follow the wiring instructions in the code comments to connect all hardware components to the Arduino board.
 
-Open the Serial Monitor in the Arduino IDE to view debugging and operational status messages.
+4.**Upload the code to the Arduino board:**
+   - Connect the Arduino board to your computer via USB.
+   - Select the appropriate board and port in the Arduino IDE, then upload the code.
+
+5.**Monitor the serial output:**
+   - Open the Serial Monitor in the Arduino IDE to view debugging and operational status messages.

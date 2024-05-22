@@ -46,18 +46,18 @@ To program the robot, follow these steps:
 
 2. **Open the project in your preferred Arduino IDE:**
 
-   - Navigate to the cloned repository directory and open the .ino file in the Arduino IDE.
+   - .Navigate to the cloned repository directory and open the .ino file in the Arduino IDE.
 
 3.**Connect the robot's hardware components:**
 
-   - Follow the wiring instructions in the code comments to connect all hardware components to the Arduino board.
+   - .Follow the wiring instructions in the code comments to connect all hardware components to the Arduino board.
 
 4.**Upload the code to the Arduino board:**
 
-   - Connect the Arduino board to your computer via USB.
+   - .Connect the Arduino board to your computer via USB.
    
-   - Select the appropriate board and port in the Arduino IDE, then upload the code.
+   - .Select the appropriate board and port in the Arduino IDE, then upload the code.
 
 5.**Monitor the serial output:**
 
-   - Open the Serial Monitor in the Arduino IDE to view debugging and operational status messages.
+   - .Open the Serial Monitor in the Arduino IDE to view debugging and operational status messages.

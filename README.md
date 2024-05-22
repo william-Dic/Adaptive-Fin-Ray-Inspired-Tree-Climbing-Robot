@@ -53,8 +53,11 @@ To program the robot, follow these steps:
    - Follow the wiring instructions in the code comments to connect all hardware components to the Arduino board.
 
 4.**Upload the code to the Arduino board:**
+
    - Connect the Arduino board to your computer via USB.
+   
    - Select the appropriate board and port in the Arduino IDE, then upload the code.
 
 5.**Monitor the serial output:**
+
    - Open the Serial Monitor in the Arduino IDE to view debugging and operational status messages.

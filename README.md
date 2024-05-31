@@ -7,8 +7,6 @@ This project involves the development of an adaptive fin ray inspired tree climb
 - [Mechanical Assembly](#mechanical-assembly)
 - [Electronics Setup](#electronics-setup)
 - [Programming Guide](#programming-guide)
-- [Algorithm Explanation](#algorithm-explanation)
-- [Reflection and Improvements](#reflection-and-improvements)
 
 ## Mechanical Assembly
 To assemble the robot, follow these steps:

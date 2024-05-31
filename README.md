@@ -2,6 +2,8 @@
 
 ## Overview
 This project involves the development of an adaptive fin ray inspired tree climbing robot. The robot is designed to climb trees using a combination of mechanical, electronic, and software components. This README provides a comprehensive guide on how to assemble, program, and operate the robot.
+![Robot Image](images/robot_image_1.jpg)
+![Robot Image](images/robot_image_2.jpg)
 
 ## Table of Contents
 - [Mechanical Assembly](#mechanical-assembly)

@@ -42,7 +42,7 @@ To set up the electronics, follow these steps:
 To program the robot, follow these steps:
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/william-Dic/Adaptive-Fin-Ray-Inspired-Tree-Climbing-Robot-UCL-RAI-24fall-.git
+   git clone https://github.com/william-Dic/Adaptive-Fin-Ray-Inspired-Tree-Climbing-Robot.git
 
 2. **Open the project in your preferred Arduino IDE:**
 
